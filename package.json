@@ -1,0 +1,21 @@
+{
+  "name": "easyauthn",
+  "version": "1.0.0",
+  "description": "EasyAuthn SDK implementing EasyAuthn API. ",
+  "main": "easyauthn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:easyauthn/easyauthn-node.git"
+  },
+  "keywords": [
+    "EasyAuthn"
+  ],
+  "author": "Gogo 008 Ltd.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
